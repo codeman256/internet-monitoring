@@ -1,6 +1,6 @@
 # A Docker Stack which Monitors your home network
 
-> This repository is a fork from [maxandersen/internet-monitoring](https://github.com/maxandersen/internet-monitoring), tailored for use on a Raspberry Pi. It has only been tested on a Raspberry Pi 4 running Pi OS 64-bit beta.
+> This repository is a fork from [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring), tailored for use on a Raspberry Pi. It has been tested on a Raspberry Pi 3 Model B running Pi OS 64-bit beta.
 
 Here's a quick start to stand-up a Docker [Prometheus](http://prometheus.io/) stack containing Prometheus, Grafana with  [blackbox-exporter](https://github.com/prometheus/blackbox_exporter) and [speedtest-exporter](https://github.com/stefanwalther/speedtest-exporter) to collect and graph home network connections and speed.
 
@@ -11,7 +11,7 @@ Before we get started installing the Prometheus stack. Ensure you install the la
 # Quick Start
 
 ```
-git clone https://github.com/geerlingguy/internet-monitoring
+git clone https://github.com/codeman256/internet-monitoring
 cd internet-monitoring
 docker-compose up
 ```
