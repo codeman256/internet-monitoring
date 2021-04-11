@@ -6,6 +6,9 @@
     # - http://192.168.1.42;blackdata;local;orbirouter-attic
     # - http://192.168.1.101;orbirouter;local;orbirouter
     - 1.1.1.1;1.1.1.1;external;internetbox
-    - jc.codyja.co;jc.codyja.co;external;internetbox
-    - js.codyja.co;js.codyja.co;external;internetbox
-    - jr.codyja.co;jr.codyja.co;external;internetbox
+    - 192.168.1.1;192.168.1.1;external;internetbox
+    - jc.jrcreativetech.ca;jc.jrcreativetech.ca;external;internetbox
+    - js.jrcreativetech.ca;js.jrcreativetech.ca;external;internetbox
+    - jr.jrcreativetech.ca;jr.jrcreativetech.ca;external;internetbox
+    - https://www.jrcreativetech.ca/;jrcreativetech.ca;external;internetbox
+    - https://ucrm.jrcreativetech.ca/;ucrm.jrcreativetech.ca;external;internetbox
