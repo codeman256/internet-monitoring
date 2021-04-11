@@ -1,8 +1,11 @@
 - targets:  # url;humanname;routing;switch
     - http://www.google.com/;google.com;external;internetbox
-    - https://github.com/;github.com;external;internetbox
-    - https://www.jeffgeerling.com;jeffgeerling.com;external;internetbox
+    # - https://github.com/;github.com;external;internetbox
+    # - https://www.jeffgeerling.com;jeffgeerling.com;external;internetbox
     # - http://192.168.1.1;internetbox;local;internetbox
     # - http://192.168.1.42;blackdata;local;orbirouter-attic
     # - http://192.168.1.101;orbirouter;local;orbirouter
-
+    - 1.1.1.1;1.1.1.1;external;internetbox
+    - jc.codyja.co;jc.codyja.co;external;internetbox
+    - js.codyja.co;js.codyja.co;external;internetbox
+    - jr.codyja.co;jr.codyja.co;external;internetbox
